@@ -1,6 +1,6 @@
-# Show do milhão
+# 🔗 Show do milhão
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O Show do Milhão é uma aplicação/jogo inspirado no iconico programa Show do Milhão, onde você precisa adivinhar qual é a palavra correta com apenas 3 tentativs e apenas uma dica.
 
 ## Available Scripts
 
